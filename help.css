@@ -1,6 +1,6 @@
 .description{
     width: 150px;
-    height: 200px;
+    height: 170px;
 }
 .view{
     background-color:sandybrown;
@@ -18,4 +18,14 @@ th{
 .up{
     color:black; 
    
+}
+a { 
+    color: blue;
+}
+.description2{
+    width: 150px;
+    height: 100px; 
+}
+h5{
+    display: inline-block;
 }
