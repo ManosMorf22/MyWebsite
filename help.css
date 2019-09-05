@@ -1,17 +1,19 @@
 .description{
     width: 150px;
     height: 200px;
-    background-color: sandybrown
 }
 .view{
-    background-color:green;
+    background-color:sandybrown;
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 table{
-    background-color:blue;
+    border:8px black;
+}
+th{
+    border:8px black; 
 }
 .up{
     color:black; 
