@@ -34,3 +34,35 @@ I created this Project for me in orden to get familiar with HTML and CSS.You can
         
     </body>
 </html>
+
+.description{
+    width: 150px;
+    height: 170px;
+}
+.view{
+    background-color:sandybrown;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+table{
+    border:8px black;
+}
+th{
+    border:8px black; 
+}
+.up{
+    color:black; 
+   
+}
+a { 
+    color: blue;
+}
+.description2{
+    width: 150px;
+    height: 100px; 
+}
+h5{
+    display: inline-block;
+}
