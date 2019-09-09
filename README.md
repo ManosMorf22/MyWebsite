@@ -10,7 +10,7 @@ I created this Project for me in orden to get familiar with HTML and CSS.You can
 
  <html>
     <head id="here">
-        <link rel="stylesheet" href="help.css">
+        <link rel="stylesheet" href="help.css" media="all" href="URL" >
         <title>Morfiadakis Emmanouil Website</title>
     </head>
     <body class="view">
