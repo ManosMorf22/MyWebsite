@@ -12,5 +12,5 @@ I created this Project for me in orden to get familiar with HTML and CSS.You can
 <img src="Rep.png" alt="Sorry" display="inline-block">
 ## Knowledge
 <img src="Know.png" alt="Sorry" display="inline-block">
-## Inteests
+## Interests
 <img src="Inte.png" alt="Sorry" display="inline-block">
