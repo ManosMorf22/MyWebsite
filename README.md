@@ -21,7 +21,7 @@ I created this Project for me in orden to get familiar with HTML and CSS.You can
                 <th><a href="Interests.html">Interests</a></th>
             </tr>    
         </table>
-        <img src="Myself.jpg" alt="Sorry" display="inline-block">
+        <img src="OpenMe/Myself.jpg" alt="Sorry" display="inline-block">
         <p class="description">
             Hello my name is Morfiadakis Emmanouil.
             I was born in 1997(Eventhough I look younger).I live in Athens and I am studying at AUEB(Informatics)
