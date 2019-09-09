@@ -7,3 +7,4 @@ I created this Project for me in orden to get familiar with HTML and CSS.You can
 
 
 ## Main_Page
+<img src="Main.png" alt="Sorry" display="inline-block">
